@@ -22,8 +22,6 @@ extensions:
 
 forge
 
-gpu profile selector
-
 logo menu
 
 openweather refined
