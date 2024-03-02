@@ -1,7 +1,7 @@
 **my super duper awesome dotfiles** (WIP)
 
 
-my simple yet pretty (in my opinion) dots for my gnome setup
+my simple yet nice (in my opinion) dots for my gnome setup
 
 
 
