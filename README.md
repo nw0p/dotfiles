@@ -31,6 +31,6 @@ space bar
 
 top bar organizer
 
-try icons: reloaded
+trey icons: reloaded
 
 qstweak
